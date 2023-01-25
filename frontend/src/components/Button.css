@@ -1,0 +1,22 @@
+button {
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: transparent;
+  border: 1.5px solid lightgray;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  transition-property: border-color, background-color;
+  transition: 0.07s ease-in-out;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #fafafa;
+  border-color: lightskyblue;
+}
+
+button:active {
+  background-color: lightskyblue;
+  color: #fafafa;
+}

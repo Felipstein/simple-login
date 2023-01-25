@@ -1,0 +1,17 @@
+.container {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+
+  border-radius: 8px;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+  padding: 12px 20px;
+}
+
+span {
+  display: block;
+}
+
+.user-info {
+  margin-top: 8px;
+}

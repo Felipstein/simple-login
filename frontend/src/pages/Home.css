@@ -1,0 +1,16 @@
+main {
+  padding: 24px;
+}
+
+.users {
+  margin-top: 16px;
+}
+
+#error-status {
+  color: red;
+  font-weight: 600;
+}
+
+.user-info {
+  margin-bottom: 20px;
+}
